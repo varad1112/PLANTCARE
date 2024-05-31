@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">142852806190</string>
+    <string name="google_api_key" translatable="false">AIzaSyD9_yYRKLL45zH1FKwNrDOBOVogWycxvSE</string>
+    <string name="google_app_id" translatable="false">1:142852806190:android:2b50eeec1b47c18f09f1bf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD9_yYRKLL45zH1FKwNrDOBOVogWycxvSE</string>
+    <string name="google_storage_bucket" translatable="false">plantcare-ba57a.appspot.com</string>
+    <string name="project_id" translatable="false">plantcare-ba57a</string>
+</resources>
